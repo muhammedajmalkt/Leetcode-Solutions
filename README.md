@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
