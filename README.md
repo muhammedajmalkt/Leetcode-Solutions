@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
 | ------- |
