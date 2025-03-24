@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
