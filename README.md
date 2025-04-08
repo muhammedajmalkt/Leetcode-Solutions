@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
