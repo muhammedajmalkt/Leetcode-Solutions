@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
 | ------- |
