@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
