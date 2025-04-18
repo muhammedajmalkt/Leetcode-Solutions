@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0136-single-number) |
