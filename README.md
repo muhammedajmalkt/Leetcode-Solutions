@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
