@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
