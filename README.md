@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2502-sort-the-people](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2881-split-strings-by-separator](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
+| [2886-faulty-keyboard](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2886-faulty-keyboard](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
