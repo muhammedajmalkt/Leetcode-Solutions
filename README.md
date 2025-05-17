@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1651-shuffle-string) |
