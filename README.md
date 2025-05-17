@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0506-relative-ranks) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0506-relative-ranks) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
