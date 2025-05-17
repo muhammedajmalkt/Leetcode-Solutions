@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3778-transform-array-by-parity](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [3778-transform-array-by-parity](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Number Theory
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3778-transform-array-by-parity](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
