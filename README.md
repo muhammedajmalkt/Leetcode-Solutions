@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
