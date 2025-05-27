@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
