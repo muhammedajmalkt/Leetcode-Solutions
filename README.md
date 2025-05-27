@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2639-separate-the-digits-in-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
