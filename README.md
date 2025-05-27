@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
