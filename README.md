@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
