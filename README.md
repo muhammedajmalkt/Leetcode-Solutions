@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3731-sum-of-variable-length-subarrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
