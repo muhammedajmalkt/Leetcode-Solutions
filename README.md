@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3859-maximum-product-of-two-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [3778-transform-array-by-parity](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
