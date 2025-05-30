@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1651-shuffle-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
