@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1651-shuffle-string](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -282,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
