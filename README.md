@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
