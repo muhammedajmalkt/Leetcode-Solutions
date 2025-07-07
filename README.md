@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Queue
 |  |
