@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2714-left-and-right-sum-differences](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/muhammedajmalkt/Leetcode-Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Queue
 |  |
